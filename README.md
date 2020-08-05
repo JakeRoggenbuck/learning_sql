@@ -1,4 +1,4 @@
-#learning_sql
+# learning_sql
 
 ## Connecting
 ```
